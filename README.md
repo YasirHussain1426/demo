@@ -1,3 +1,3 @@
 # demo
-This is my first Git Repository
-Author - Yasir Hussain
+This is my first Git Repository.
+<br>Author - Yasir Hussain
